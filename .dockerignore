@@ -1,0 +1,32 @@
+# Python
+.pythonlibs/
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+
+# Env & secrets
+.env
+.env.*
+
+# Evals output
+evals.json
+
+# Git
+.git/
+.gitignore
+
+# Replit
+.replit
+.cache/
+.local/
+replit.nix
+
+# Misc
+*.log
+.DS_Store
